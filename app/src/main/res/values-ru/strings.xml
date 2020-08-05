@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="showedText">Привет мир! Был выбран русский язык.</string>
+
+    <string-array name="themes">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+    </string-array>
+</resources>

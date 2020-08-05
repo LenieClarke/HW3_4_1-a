@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">HW3_4_1-a</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="showedText">Hello world! English was chosen.</string>
+
+    <string-array name="languages">
+        <item>EN</item>
+        <item>RU</item>
+        <item>DE</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item>Black</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
